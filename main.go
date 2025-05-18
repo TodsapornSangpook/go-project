@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	utilsText "poc_go/utils"
+	utils "poc_go/utils"
 )
 
 func main() {
@@ -10,8 +10,10 @@ func main() {
 
 	var name string = "Ice"
 	age := 10
+	weight := 30
 
-	hello := utilsText.GetHelloText(name)
+	hello := utils.GetHelloText(name)
+	ageAddWeight := utils.AddNumber(age, weight)
 
-	fmt.Println(name, age, hello)
+	fmt.Println(hello, ageAddWeight)
 }
