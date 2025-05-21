@@ -1,0 +1,5 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/liudng/dogo v0.0.0-20161102105440-7887b849de84/go.mod h1:7K256XlNXuTYd5wy0pvudr7XTD3e8sxK69hDvKK70mE=
+github.com/zhgo/config v0.0.0-20150924145423-9caf41330bd9/go.mod h1:I/6dXd84K0o4KQGy6034cb9nognYO2PxCRh/AvsGURg=
+github.com/zhgo/console v0.0.0-20150817103316-22d59bcbd28e/go.mod h1:Scfm/DPAJX13F/A5SBA5NJZdUZ8YAYwXlUexLc/lvPA=

@@ -3,6 +3,8 @@ package main
 import (
 	"fmt"
 	utils "poc_go/utils"
+
+	"github.com/google/uuid"
 )
 
 func main() {
@@ -16,4 +18,7 @@ func main() {
 	ageAddWeight := utils.AddNumber(age, weight)
 
 	fmt.Println(hello, ageAddWeight)
+
+	fmt.Println("uuid :", uuid.New().String())
+
 }
