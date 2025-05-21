@@ -10,7 +10,7 @@ func main() {
 
 	var name string = "Ice"
 	age := 10
-	weight := 30
+	weight := 40
 
 	hello := utils.GetHelloText(name)
 	ageAddWeight := utils.AddNumber(age, weight)
